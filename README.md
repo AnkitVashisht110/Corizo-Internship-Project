@@ -17,3 +17,4 @@ Stock price prediction is a challenging problem due to the high volatility and n
 1. Clone the repository:
 
 ```bash
+https://github.com/AnkitVashisht110/Minor-Project-Corizo.git
