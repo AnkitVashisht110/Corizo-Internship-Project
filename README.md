@@ -31,4 +31,4 @@ Wine quality prediction is an important problem in the wine industry, as the qua
 1. Clone the repository:
 
 ```bash
-https://github.com/AnkitVashisht110/Corizo-Internship-Project.git
+https://github.com/AnkitVashisht110/Corizo-Internship-Projects.git
