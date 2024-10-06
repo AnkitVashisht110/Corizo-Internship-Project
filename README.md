@@ -1,4 +1,4 @@
-#  minor Project - Stock Price Prediction Using Linear Regression
+#  Minor Project - Stock Price Prediction Using Linear Regression
 
 This project focuses on predicting stock prices using historical data and applying a **Linear Regression** model. By leveraging stock market trends and historical price movements, the model aims to forecast future stock prices with the help of supervised learning.
 
